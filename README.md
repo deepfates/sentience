@@ -4,7 +4,7 @@ A procedural generator for sentient objects, built with [Tracery](http://tracery
 
 ## What it does
 
-Generates descriptions of self-aware magical items that have names, alignments, purposes, powers, and opinions about their own consciousness.
+Generates self-aware magical items with names, alignments, purposes, powers, and existential opinions.
 
 ```
 You come upon a chest.
@@ -60,14 +60,7 @@ origin
 
 ## Data sources
 
-All data was hand-collected and curated in 2017. Sources include:
-
-- **Objects** (4,064): D&D/Pathfinder SRD magic items
-- **Names** (595): Tolkien's legendarium
-- **Deities** (365): D&D, Lovecraft's Cthulhu Mythos, Norse, Egyptian, Greek pantheons
-- **Powers** (76): D&D 3.5e intelligent item properties + original additions
-
-The grammar structure, missions, consciousness statements, and comedic elements are original.
+All data hand-collected in 2017 from SRD magic items, Tolkien's legendarium, and various pantheons. The grammar structure, missions, consciousness statements, and jokes are original.
 
 ## Highlights from the data
 
@@ -116,9 +109,9 @@ python tracer.py
 
 ## Why
 
-In 2017 I was exploring procedural generation and hand-curating datasets. The question was: what happens when you give inanimate objects consciousness, personality, and purpose? The answer is comedy through combinatorics — the juxtaposition of serious fantasy elements with absurdist goals creates emergent humor at scale.
+Give an inanimate object consciousness, personality, and purpose. Mix serious fantasy with absurdist goals. Comedy happens.
 
-Every one of these 53 quadrillion objects is technically unique. Most of them are ridiculous. Some of them might be profound. The generator doesn't know the difference.
+Every one of these 53 quadrillion objects is technically unique. Most are ridiculous. Some might be profound. The generator doesn't know the difference.
 
 ## License
 
