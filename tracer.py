@@ -1,3 +1,9 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "tracery",
+# ]
+# ///
 import tracery
 from tracery.modifiers import base_english
 import json
